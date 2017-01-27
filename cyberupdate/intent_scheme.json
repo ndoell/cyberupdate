@@ -1,0 +1,13 @@
+{
+
+    "intents": [{
+    
+        "intent": "AlertIntent"
+    
+    },{
+
+        "intent": "ActivityIntent"
+
+    }]
+
+}

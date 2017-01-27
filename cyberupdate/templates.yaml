@@ -1,0 +1,3 @@
+welcome: Welcome to cyber update. You can ask for the recent cyber alerts or activity. Just say alerts or activity.
+
+round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
